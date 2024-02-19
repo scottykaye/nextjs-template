@@ -1,6 +1,6 @@
 'use client'
 
-export default function StandardError({
+export default function Error({
   error,
   reset,
 }: {
